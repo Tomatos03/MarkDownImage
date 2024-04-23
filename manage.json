@@ -1,0 +1,15 @@
+{
+  "picBed": {
+    "github-A": {
+      "alias": "github-A",
+      "token": "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",
+      "githubUsername": "Tomatos03",
+      "proxy": "",
+      "paging": false,
+      "customUrl": "",
+      "picBedName": "github"
+    }
+  },
+  "settings": {},
+  "currentPicBed": "placeholder"
+}
